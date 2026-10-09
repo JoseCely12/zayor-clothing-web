@@ -8,7 +8,7 @@ Este documento recoge los acuerdos que hicimos como equipo para trabajar de form
 
 ### 1.1 Guía oficial que adoptamos
 
-- **JavaScript y React:** usamos javascrips junto con su parte de React. Elegimos esta porque es muy conocida y trae reglas ya hechas, así no tenemos que inventarlas.
+- **JavaScript y React:** usamos la Airbnb JavaScript Style Guide, incluida su parte de React. Elegimos esta porque es muy conocida y trae reglas ya hechas, así no tenemos que inventarlas.
 
 - **CSS:** como usamos Tailwind CSS, escribimos los estilos con las clases de Tailwind. Solo usamos CSS propio cuando Tailwind no alcance, y ese CSS va en un solo archivo (src/index.css).
 
